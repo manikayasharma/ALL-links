@@ -3321,7 +3321,6 @@ cdn.cybertv.tv
 cdn.deez.nz
 cdn.ellegisladordigital.com
 cdn.farmaciasamigosdelasalud.com
-cdn.jsdelivr.net
 cdn.net
 cdn.net.prism.delystigemusikanter.com
 cdn.putnamcityschools.help
