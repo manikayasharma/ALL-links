@@ -488,7 +488,6 @@ cattos-tutoring.b-cdn.net
 cavtalk.org
 cbysk.fxchinese.ca
 cdn.deez.nz
-cdn.jsdelivr.net
 cdn.statically.io
 cdn.staticdelivr.com
 cdn.timeless-twilight.com
@@ -22481,7 +22480,6 @@ karanpc.com
 onworks.net
 linuxmint.com
 garethflowers.dev
-github.io
 fcportables.com
 portablefreeware.com
 alternativeto.net
