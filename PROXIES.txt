@@ -488,7 +488,6 @@ cattos-tutoring.b-cdn.net
 cavtalk.org
 cbysk.fxchinese.ca
 cdn.deez.nz
-cdn.jsdelivr.net
 cdn.statically.io
 cdn.staticdelivr.com
 cdn.timeless-twilight.com
