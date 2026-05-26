@@ -4793,8 +4793,6 @@ play.nation.xylora.beltfrog.com
 xylora.tvlinux.com
 xylora.org.hoohaamelbourne.com.au
 xylora.co.ldeazevedo.com
-raw.githack.com
-rawcdn.githack.com
 reading.ultradec.com
 lol.greenbaynz.com
 nothing.bvhoa.com
