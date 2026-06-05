@@ -21724,7 +21724,6 @@ hidessh.com
 vpnjantit.com
 systemzone.net
 mikrotik.com
-gitlab.com
 vpnusers.com
 vpnlist.net
 fasterssh.com
